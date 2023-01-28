@@ -959,7 +959,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('SOURCE CODE', url='https://github.com/matrixbotz0/PETER-PARKER-BOT')
+            InlineKeyboardButton('ABOUT ME', url='https://t.me/sanufilterv1_botgrp')
             ],[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
         ]]
