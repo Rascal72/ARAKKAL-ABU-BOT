@@ -844,13 +844,20 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":   
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+
+        ],  [
+
+            InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+TSfOKFwpmZE4OWQ1'),
+
+            InlineKeyboardButton('🤖 CHANNEL 🤖', url='https://t.me/+cDIjx6c8NcdlNmM5')
+
         ], [
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/MatRixBotzTG')
-        ], [
-            InlineKeyboardButton('ℹ️ Help', callback_data='help2'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+
+            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
+
+            InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
+
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1097,7 +1104,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("«𝙱𝙰𝙲𝙺", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/MatRixBotz_TG")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/Thisis_sanu")
                   ]]
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
@@ -1572,14 +1579,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT ➡️", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+Pg9tLvtTD1JhNDI1")]
+            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+TSfOKFwpmZE4OWQ1")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="📄 Page 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+Pg9tLvtTD1JhNDI1")]
+            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+TSfOKFwpmZE4OWQ1")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
