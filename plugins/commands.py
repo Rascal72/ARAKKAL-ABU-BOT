@@ -41,6 +41,8 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
 
         ],  [
+             InlineKeyboardButton('DISCLAIMER', callback_data='disclaimer')
+        ],  [
 
             InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+TSfOKFwpmZE4OWQ1'),
 
@@ -97,6 +99,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
 
+        ],  [
+             InlineKeyboardButton('DISCLAIMER', callback_data='disclaimer')
         ],  [
 
             InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+TSfOKFwpmZE4OWQ1'),
