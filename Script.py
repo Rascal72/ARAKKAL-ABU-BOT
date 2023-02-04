@@ -325,7 +325,16 @@ Delete A Lot Of Messages From Groups!
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 • /share - 𝚁𝚎𝚙𝚕𝚢 𝚆𝚒𝚝𝚑 𝙰𝚗𝚢 𝚃𝚎𝚡𝚝 𝚃𝚘 𝚂𝚎𝚗𝚍 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 """
-
+   
+    DISCLAIMER_TXT = """DISCLAIMER NOTE‼️:
+- @Sanufilterv1_bot is an Open Source Project.
+All the files in this bot are freely available on the internet or posted by somebody else. 
+This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. 
+If anything is against law please contact us so that it can be removed asap. 
+It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. 
+If you believe this bot is violating your intellectual property, contact the respective channels for removal. 
+The Bot does not own any of these contents, it only index the files from telegram. 
+For any content removal contact admin it will be remove instantly"""
 
 
 
