@@ -919,7 +919,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('sʜᴀʀᴇ-ᴛᴇxᴛ​', callback_data='sharetxt'),
             InlineKeyboardButton('ꜰɪʟᴇ-sᴛᴏʀᴇ​', callback_data='newdata')
             ],[
-            InlineKeyboardButton('AUTOAPPROVE​', callback_data='autoapprove')
+            InlineKeyboardButton('ᴀᴜᴛᴏ ᴀᴩᴩʀᴏᴠᴇ ʀᴇqᴜᴇꜱᴛꜱ​', callback_data='autoapprove')
             ],[           
             InlineKeyboardButton('ᴊsᴏɴᴇ', callback_data='son'),
             InlineKeyboardButton('ᴛᴛs', callback_data='ttss'),           
