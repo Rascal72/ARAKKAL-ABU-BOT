@@ -340,7 +340,7 @@ For any content removal contact admin it will be remove instantly"""
 AUTOAPPROVE_TXT = """Hello!
 I can approve users in Groups/Channels.Add me to your chat and promote me to admin with add members permission.
 
-Powerd By : @Sanusmoviesch
+Powerd By : @Sanumoviesch"""
     
 
 
