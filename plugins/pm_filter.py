@@ -847,7 +847,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('DISCLAIMER', callback_data='disclaimer')
         ],  [
 
-            InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+TSfOKFwpmZE4OWQ1'),
+            InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+cHFG071nmPsyYzBh'),
 
             InlineKeyboardButton('🤖 CHANNEL 🤖', url='https://t.me/+cDIjx6c8NcdlNmM5')
 
@@ -1606,14 +1606,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT ➡️", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+TSfOKFwpmZE4OWQ1")]
+            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+cHFG071nmPsyYzBh")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="📄 Page 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+TSfOKFwpmZE4OWQ1")]
+            [InlineKeyboardButton(text="💢 ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ 💢",url="https://t.me/+cHFG071nmPsyYzBh")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
