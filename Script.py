@@ -10,7 +10,9 @@ class script(object):
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/sanufilterv1_botgrp>Aʀᴀᴋᴋᴀʟ Aʙᴜ</a>
+-sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs ʙᴀsᴇᴅ ᴏɴ ᴇᴠᴀ ᴍᴀʀɪᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴀɴᴅ ᴏᴛʜᴇʀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ 
+
+-Oʀɪɢɪɴᴀʟ sᴏᴜʀᴄᴇ ʟɪɴᴋ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ 🚶🏿 
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟  <a href=https://t.me/Thisis_sanu>Sanu</a>"""
