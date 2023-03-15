@@ -341,6 +341,7 @@ For any content removal contact admin it will be remove instantly"""
 
     AUTOAPPROVE_TXT = """Hello!
 I can approve users in Groups/Channels.Add me to your chat and promote me to admin with add members permission.
+This feature is not work in cloned repository 
 Powerd By : @Sanusmoviesch"""
     
 
