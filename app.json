@@ -1,11 +1,11 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "ARAKKAL-ABU-BOT",
     "description": "the telegram Autofilter bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
+    "logo": "https://graph.org/file/bacc9419b43a065aa5ab8.jpg",
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Rascal72/ARAKKAL-ABU-BOT",
+    "repository": "https://github.com/Rascal72/ARAKKAL-ABU-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -150,7 +150,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
