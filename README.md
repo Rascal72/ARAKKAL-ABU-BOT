@@ -81,3 +81,8 @@ groups_broadcast - to broadcast a message to all groups
 
 * [![SANU BOTS](https://img.shields.io/badge/sanu%20-Bots-red)](https://t.me/+LVTlT_SJ_ZZkNmY1)
 
+## DEPLOY
+<a href="https://heroku.com/deploy?template=https://github.com/Rascal72/ARAKKAL-ABU-BOT">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
